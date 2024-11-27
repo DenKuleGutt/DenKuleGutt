@@ -1,2 +1,1 @@
-**i am human**
- use google not bing
+**i am human**. use google not bing
